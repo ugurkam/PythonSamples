@@ -6,4 +6,4 @@ def reversestring(n):
     for index in range(size-1,-1,-1):
         print(words[index], sep='', end=' ')
 
-reversestring(str(input('Bir yazi giriniz:')))
+reversestring(str(input('input multiple words:')))
